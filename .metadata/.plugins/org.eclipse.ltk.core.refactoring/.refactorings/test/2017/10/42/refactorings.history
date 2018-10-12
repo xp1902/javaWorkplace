@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;test.ReadSequentialFile.java&apos; to &apos;JFileChooserDemo.java&apos;&#x0D;&#x0A;- Original project: &apos;test&apos;&#x0D;&#x0A;- Original element: &apos;test.ReadSequentialFile.java&apos;&#x0D;&#x0A;- Renamed element: &apos;test.JFileChooserDemo.java&apos;" description="Rename compilation unit &apos;ReadSequentialFile.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;test{ReadSequentialFile.java" name="JFileChooserDemo.java" references="false" stamp="1508234610242" version="1.0"/>
+</session>
